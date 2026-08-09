@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "caftan-ambra",
+    "name": "Caftan Ambra",
+    "price": 450,
+    "image": "/images/caftan-1.jpg",
+    "description": "Élégant caftan brodé inspiré des motifs traditionnels.",
+    "handmade": true,
+    "details": "Fait main, broderies en fil d'or, doublure en satin."
+  },
+  {
+    "slug": "caftan-sahara",
+    "name": "Caftan Sahara",
+    "price": 380,
+    "image": "/images/caftan-2.jpg",
+    "description": "Coupe fluide et détails géométriques inspirés du désert.",
+    "handmade": false,
+    "details": "Coupe machine, finitions soignées, passepoil artisanal."
+  },
+  {
+    "slug": "caftan-ambre",
+    "name": "Caftan Ambre",
+    "price": 420,
+    "image": "/images/caftan-3.jpg",
+    "description": "Richesse des textures et harmonie des couleurs.",
+    "handmade": true,
+    "details": "Fait main, perles cousues à la main, tissu brocart."
+  },
+  {
+    "slug": "caftan-nissa",
+    "name": "Caftan Nissa",
+    "price": 499,
+    "image": "/images/caftan-4.jpg",
+    "description": "Modèle de soirée raffiné et moderne.",
+    "handmade": true,
+    "details": "Finitions main, ourlets invisibles, perles Swarovski."
+  },
+  {
+    "slug": "caftan-laila",
+    "name": "Caftan Laila",
+    "price": 360,
+    "image": "/images/caftan-5.jpg",
+    "description": "Forme contemporaine avec motifs traditionnels.",
+    "handmade": false,
+    "details": "Assemblage machine, broderies locales."
+  },
+  {
+    "slug": "caftan-khali",
+    "name": "Caftan Khali",
+    "price": 520,
+    "image": "/images/caftan-6.jpg",
+    "description": "Pièce de luxe, idéale pour les cérémonies.",
+    "handmade": true,
+    "details": "Tissu de soie, broderie main, doublure en soie."
+  },
+  {
+    "slug": "caftan-orient",
+    "name": "Caftan Orient",
+    "price": 300,
+    "image": "",
+    "description": "Design minimaliste mêlé à des motifs orientaux.",
+    "handmade": false,
+    "details": "Couture machine, applications thermocollées."
+  },
+  {
+    "slug": "caftan-nesma",
+    "name": "Caftan Nesma",
+    "price": 410,
+    "image": "",
+    "description": "Couleurs douces et broderies subtiles.",
+    "handmade": true,
+    "details": "Finitions main, boutonnières cousues à la main."
+  },
+  {
+    "slug": "caftan-azur",
+    "name": "Caftan Azur",
+    "price": 275,
+    "image": "",
+    "description": "Option légère pour un usage quotidien élégant.",
+    "handmade": false,
+    "details": "Tissu respirant, coupe relax."
+  },
+  {
+    "slug": "caftan-saphir",
+    "name": "Caftan Saphir",
+    "price": 600,
+    "image": "",
+    "description": "Haut de gamme, détails précieux et coupe impeccable.",
+    "handmade": true,
+    "details": "Broderie main, pierres incrustées, travail d'orfèvre."
+  }
+]
